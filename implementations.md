@@ -12,6 +12,7 @@ These blockchains supports Mesh. You will find links to their implementations be
 * [Decred](https://github.com/decred/dcrros)
 * [DigiByte](https://github.com/DigiByte-Core/digibyte-rosetta-nodeapi/pull/1)
 * [ElectraProtocol](https://github.com/ElectraProtocol/rosetta-electraprotocol)
+* [Genesis Fork](https://github.com/Holedozer1229/Excalibur-EXS/tree/main/genesis-fork)
 * [Handshake HNS](https://github.com/handshake-org/hs-rosetta)
 * [Horizen](https://github.com/HorizenOfficial/rosetta-zen)
 * [IOTA](https://github.com/iotaledger/rosetta-iota)
@@ -112,3 +113,4 @@ These blockchains supports Mesh. You will find links to their implementations be
 * Haskell - [Kadena](https://github.com/kadena-io/chainweb-node/tree/master/src/Chainweb/Rosetta)
 * JavaScript - [Handshake HNS](https://github.com/handshake-org/hs-rosetta)
 * OCaml - [MINA](https://github.com/MinaProtocol/mina/tree/master/src/app/rosetta)
+* Python - [Genesis Fork](https://github.com/Holedozer1229/Excalibur-EXS/tree/main/genesis-fork)
